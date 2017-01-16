@@ -18,6 +18,6 @@ public class Solution {
 			}
 			myMap.put(nums[i], i);
 		}
-		return nums;
+		return result;
 	}
 }
